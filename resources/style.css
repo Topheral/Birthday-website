@@ -315,7 +315,6 @@ body{
     height: auto;
     display:inline-flex;
     justify-content: left;
-    border: 1px solid blue;
     transform: translateX(-80px);
   }
   .deny {
@@ -323,7 +322,6 @@ body{
     display: inline-block;
     padding: 1% 2%;
     margin: 10px;
-    border: 1px solid red;
   }
   
   .deny p {
@@ -358,7 +356,6 @@ body{
     display:inline-flex;
     justify-content: right;
     margin-top: 20px;
-    border: 1px solid blue;
   }
 
   .chris {
@@ -366,7 +363,6 @@ body{
     display: inline-block;
     padding: 1% 2%;
     margin: 20px;
-    border: 1px solid red;
   }
 
   .chris p {
